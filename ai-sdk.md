@@ -112,8 +112,6 @@ This is useful when routing requests through a proxy service (such as LiteLLM or
 > Custom base URLs are supported for the following providers:
 > - **Text Generation** (via Prism): OpenAI, Anthropic, Gemini, Groq, DeepSeek, xAI, OpenRouter
 > - **Embeddings & Reranking**: Cohere
->
-> Providers like Jina and ElevenLabs use direct HTTP clients and currently require code modifications to support custom URLs.
 <a name="provider-support"></a>
 ### Provider Support
 
